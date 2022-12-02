@@ -96,7 +96,7 @@ label {
   padding-right: 5px;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 800px) {
   .menu {
     width: 30%;
   }
