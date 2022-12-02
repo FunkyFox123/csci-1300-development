@@ -60,7 +60,7 @@ export default function Menu(props) {
               } else {
                 props.selectIsInDeck(true)
               }
-            }}/><label>YOUR DECK</label>
+            }}/><label>Your Deck</label>
 
             <Aggregator deckMana = {props.deckMana}/>
           </div>
