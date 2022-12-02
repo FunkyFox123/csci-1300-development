@@ -53,10 +53,6 @@ export default function Menu(props) {
           </div>
 
           <div className="menu-filter-container">
-            <button onClick={reset}>Reset Filters</button>
-          </div>
-
-          <div className="menu-filter-container">
             <h4>COLLECTION</h4>
             <input type="checkbox" id="deck-checkbox" onClick={() => {
               if (document.getElementById("deck-checkbox").checked === false) {
@@ -99,6 +95,10 @@ export default function Menu(props) {
               <input type="radio" name="manaCostSort" onClick={() => props.selectManaSort("Ascending")}/><label>Low to High</label>
               <input type="radio" name="manaCostSort" onClick={() => props.selectManaSort("Descending")}/><label>High to Low</label>
             </div>
+          </div>
+
+          <div className="menu-reset-container">
+            <button onClick={reset}>Reset Filters</button>
           </div>
         </div>
       </div>
