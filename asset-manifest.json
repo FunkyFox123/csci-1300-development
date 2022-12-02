@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/csci-1300-development/static/css/main.1630447c.css",
-    "main.js": "/csci-1300-development/static/js/main.1208b1c0.js",
+    "main.css": "/csci-1300-development/static/css/main.71e6dc64.css",
+    "main.js": "/csci-1300-development/static/js/main.529c6d02.js",
     "index.html": "/csci-1300-development/index.html",
-    "main.1630447c.css.map": "/csci-1300-development/static/css/main.1630447c.css.map",
-    "main.1208b1c0.js.map": "/csci-1300-development/static/js/main.1208b1c0.js.map"
+    "main.71e6dc64.css.map": "/csci-1300-development/static/css/main.71e6dc64.css.map",
+    "main.529c6d02.js.map": "/csci-1300-development/static/js/main.529c6d02.js.map"
   },
   "entrypoints": [
-    "static/css/main.1630447c.css",
-    "static/js/main.1208b1c0.js"
+    "static/css/main.71e6dc64.css",
+    "static/js/main.529c6d02.js"
   ]
 }
